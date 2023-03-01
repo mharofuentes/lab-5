@@ -10,8 +10,8 @@ table {
 		margin-right: auto;
 		padding: 25px;
 		}
-td {
-		Font-Family: fantasy;
+h1{
+		Font-Family: red;
 		color: #f19494;
 		text-align: center;
 		font-size:39px;
