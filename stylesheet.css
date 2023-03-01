@@ -1,0 +1,24 @@
+body {
+		background-image: url(https://st2.depositphotos.com/18508348/44667/i/450/depositphotos_446679552-stock-photo-space-wallpaper-banner-background-stunning.jpg);
+		background-size: cover;
+		}
+table {
+		font-family: Serif;
+		baorder-collapse: inherit;
+		color: #94D2F1;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 25px;
+		}
+h1 {
+		Front-Family: fantasy;
+		color: #f19494;
+		text-align: center;
+		font-size:39px;
+		}
+h2	{
+		Front-family: fantasy;
+		color: #f19494;
+		text-align: center;
+		font-size: 29px;
+		}
