@@ -1,5 +1,4 @@
-# lab-5
-<!DOCTYPE html>
+# lab-5<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -17,11 +16,11 @@
       <th>Saturn </th>
     </tr>
     <tr>
-      <td>Images of planets</td>
-      <td><img src="images/Neptune.jpg" alt="Neptune"></td>
-      <td><img src="images/uranus.jpg" alt="Uranus"></td>
-      <td><img src="images/mars.jpg" alt="Mars"></td>
-      <td><img src="images/saturn.jpg" alt="Saturn"></td>
+      <td>Images of ??</td>
+      <td><img src="images/Neptune.jpg" alt="?"></td>
+      <td><img src="images/uranus.jpg" alt="?"></td>
+      <td><img src="images/mars.jpg" alt="?"></td>
+      <td><img src="images/saturn.jpg" alt="?"></td>
     </tr>
     <tr>
       <td>Mass(kg)</td>
