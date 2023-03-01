@@ -10,7 +10,7 @@ table {
 		margin-right: auto;
 		padding: 25px;
 		}
-h1{
+h1	{
 		Font-Family: fantasy;
 		color: #DC143C;
 		text-align: center;
