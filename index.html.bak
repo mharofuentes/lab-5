@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>Lab 5</title>
-  <link rel="stylesheet" href="css/stylesheet.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <h1>Planetary Fact Sheet</h1>
@@ -18,10 +18,10 @@
     </tr>
     <tr>
       <td>Images of planets</td>
-      <td><img src="images/Neptune.jpg" alt="Neptune"  width="400" height="200" class="center"></td>
-      <td><img src="images/uranus.jpg" alt="Uranus"  width="400" height="200" class="center"></td>
-      <td><img src="images/mars.jpg" alt="Mars" width="400" height="200"class="center"></td>
-      <td><img src="images/saturn.jpg" alt="Saturn" width="400" height="200"class="center"></td>
+      <td><img src="images/Neptune.jpg" alt="Neptune"></td>
+      <td><img src="images/uranus.jpg" alt="Uranus"></td>
+      <td><img src="images/mars.jpg" alt="Mars"></td>
+      <td><img src="images/saturn.jpg" alt="Saturn"></td>
     </tr>
     <tr>
       <td>Mass(kg)</td>
