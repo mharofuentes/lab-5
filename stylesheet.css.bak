@@ -4,20 +4,20 @@ body {
 		}
 table {
 		font-family: Serif;
-		baorder-collapse: inherit;
+		border-collapse: inherit;
 		color: #94D2F1;
 		margin-left: auto;
 		margin-right: auto;
 		padding: 25px;
 		}
-h1 {
-		Front-Family: fantasy;
+td {
+		Font-Family: fantasy;
 		color: #f19494;
 		text-align: center;
 		font-size:39px;
 		}
-h2	{
-		Front-family: fantasy;
+th	{
+		Font-family: fantasy;
 		color: #f19494;
 		text-align: center;
 		font-size: 29px;
